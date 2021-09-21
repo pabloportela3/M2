@@ -1,0 +1,39 @@
+h1 { 
+    color: blue;
+}
+
+#dtpn {
+    color: blueviolet;
+}
+#hab {
+    color: crimson;
+}
+#idiomas {
+    color: darkcyan;
+font-size: 50px;
+}
+#obj {
+    color: #ff0084;
+    box-shadow: 0 0 5px #ccc;
+}
+li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.carrera {
+    color: darkmagenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1700ea+0,ff0084+100 */
+background: #1700ea; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #1700ea 0%, #ff0084 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #1700ea 0%,#ff0084 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #1700ea 0%,#ff0084 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1700ea', endColorstr='#ff0084',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+p {
+    column-count: 2;
+    column-gap: 30px;
+}
