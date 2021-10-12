@@ -1,0 +1,36 @@
+.contenedor {
+    display: flex;
+justify-content: space-between;
+height: 200px;
+width: 1400px;
+border: black;
+border-style: solid;
+}
+
+.caja {
+    width: 200px;
+	height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.uno{
+    background-color: red;
+}
+
+.dos{
+background-color: blue;
+}
+
+.tres{
+    background-color: green;
+}
+
+
+p {
+    color: white;
+}
+
+
